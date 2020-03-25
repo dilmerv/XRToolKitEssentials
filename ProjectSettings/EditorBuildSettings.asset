@@ -17,9 +17,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/XRSockets.unity
     guid: d270673603952c34598633ea48166f43
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/XRUI.unity
     guid: 2903f7357bfdad243bd6f923e3266cd8
+  - enabled: 0
+    path: Assets/Scenes/XRTeleporting.unity
+    guid: 24bedcacd74a10d42b65a59dee9083d9
+  - enabled: 1
+    path: Assets/Scenes/XREvents.unity
+    guid: f129ce00ecfb6334c884e0b2d6d8bef3
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f54002e9d6889ab48af836c794959b31,
       type: 2}
