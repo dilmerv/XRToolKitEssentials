@@ -16,6 +16,8 @@ Blow are the results from various examples taught in [LearnXR.io](https://www.le
 
 |Unity Scenes||
 |---|---|
+|XRPlayerController.unity|XRPlayerController.unity|
+|<img src="https://github.com/dilmerv/XRToolKitEssentials/blob/master/docs/images/XRPlayerController1.gif" width="300">|<img src="https://github.com/dilmerv/XRToolKitEssentials/blob/master/docs/images/XRPlayerControlle2.gif" width="300">
 |XRGrabSwordAndShield.unity|XRGrabSwordAndShield.unity|
 |<img src="https://github.com/dilmerv/XRToolKitEssentials/blob/master/docs/images/XRGrabSwordAndShield1.gif" width="300">|<img src="https://github.com/dilmerv/XRToolKitEssentials/blob/master/docs/images/XRGrabSwordAndShield2.gif" width="300">
 |XRProjectURP.unity|XRUI.unity|
